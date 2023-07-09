@@ -4,7 +4,7 @@ on:
     branches: [main]
 #     schedule:
 #      - cron: 30 05 * * *
-#   workflow_dispatch:
+
 jobs:
   build:
     runs-on: windows-latest
